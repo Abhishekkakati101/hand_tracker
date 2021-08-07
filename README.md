@@ -1,6 +1,7 @@
 # hand_tracker
 
-<img src ='https://yt3.ggpht.com/ytc/AKedOLRjqH5YNixEUi8z2zHiIzJYPkBECw_UXIBp3uKc=s900-c-k-c0x00ffffff-no-rj' alt ='hand'>
+<img src ='https://google.github.io/mediapipe/images/mobile/hand_crops.png' alt = ''>
+
 
 The ability to perceive the shape and motion of hands can be a vital component in improving the user experience across a variety of technological domains and platforms. For example, it can form the basis for sign language understanding and hand gesture control, and can also enable the overlay of digital content and information on top of the physical world in augmented reality. While coming naturally to people, robust real-time hand perception is a decidedly challenging computer vision task, as hands often occlude themselves or each other (e.g. finger/palm occlusions and hand shakes) and lack high contrast patterns.
 
@@ -10,8 +11,10 @@ MediaPipe Hands is a high-fidelity hand and finger tracking solution. It employs
 
 <img src ='https://editor.analyticsvidhya.com/uploads/2410344.png' alt ='hand2'>
 
-<img src ='https://google.github.io/mediapipe/images/mobile/hand_crops.png' alt = ''>
 
+## Live Demo:
+
+![](hand_tracker_demo.gif)
 
 
 ## Installation:
